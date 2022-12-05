@@ -1,4 +1,5 @@
-//Yunus Emre Yılmaz yunusemreyilmaz347@gmail.com
+//Yunus Emre Yılmaz -- yunusemreyilmaz347@gmail.com
+
 //Stock exchange application.
 //Important note:
 // No regulation has been given about fractional number of lots. For example Borsa Istanbul doesnt let you trade 0,8 number of lots but Coin market does. 
@@ -66,3 +67,5 @@ const stonks = (array) => {
 }
 stonks(firstArray);
 
+//https://www.linkedin.com/in/yunus-emre-y%C4%B1lmaz-a7136b242/
+//yunusemreyilmaz347@gmail.com
